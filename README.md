@@ -53,10 +53,9 @@ márgenes izquierdo y derecho de la app.
 
 - Gestionar las versiones en github haciendo al menos 3 commits que detallan el
 avance progresivo de la aplicación.
-(0.5 Puntos)
+
 
  
-
-● /index.rb
-● /README.MD
+● La versión de Bootstrap recomendada es la 5x.
+● Puedes utilizar el generador rails g controller ...
 
